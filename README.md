@@ -1,6 +1,6 @@
 # screeny
 
-📸 **pixel-perfect screenshot capture** — because taking web screenshots shouldn't be a nightmare.
+📸 **pixel-perfect screenshot capture** — because taking webpage screenshots shouldn't be a nightmare.
 
 built this because every screenshot tool either produces blurry images, crashes on dynamic content, or costs money. no subscriptions, no quality loss, no missing content — just crisp, full-page captures that actually work.
 
